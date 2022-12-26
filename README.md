@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanisha Choudhary</h1>
 <h3 align="center">A Computer Science student and a passionate MERN stack developer and Blockchain enthusiast from India</h3>
+
 ![viciadoemcodar](https://user-images.githubusercontent.com/94930302/209575346-b296df12-980a-4215-93c1-470572da552a.gif)
 
 - 🔭 I’m currently working on **MongoDB**
