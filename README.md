@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **a MERN stack or Blockchain project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tanishach03](https://github.com/tanishach03)
+- 👨‍💻 All of my projects are available on <a href="https://github.com/tanishach03">GitHub</a>
 
 - 📫 How to reach me **tanctanc03@gmail.com**
 
