@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=08A64B&center=true&width=435&lines=Hello%2C+I'm+Tanisha+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=08A64B&center=true&width=435&lines=Hello%2C+I'm+Tanisha+%3A:))](https://git.io/typing-svg)
 <h3 align="center">A second year computer science student, a passionate MERN stack developer and Blockchain enthusiast.</h3>
 
 ![viciadoemcodar](https://user-images.githubusercontent.com/94930302/209575346-b296df12-980a-4215-93c1-470572da552a.gif)
