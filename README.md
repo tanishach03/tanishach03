@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tanishach03](https://github.com/tanishach03)
 
-- 📫 How to reach me <a href="**tanctanc03@gmail.com**">Email</a>
+- 📫 How to reach me **tanctanc03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
