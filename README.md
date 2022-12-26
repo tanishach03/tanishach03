@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanisha Choudhary</h1>
-<h3 align="center">A Computer Science student and a passionate MERN stack developer and Blockchain enthusiast from India</h3>
+<h3 align="center">A computer science student, a passionate MERN stack developer and Blockchain enthusiast from India</h3>
 
 ![viciadoemcodar](https://user-images.githubusercontent.com/94930302/209575346-b296df12-980a-4215-93c1-470572da552a.gif)
 
@@ -24,7 +24,6 @@
 
 ![tanishach03's Stats](https://github-readme-stats.vercel.app/api?username=tanishach03&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 ![tanishach03's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanishach03&theme=gotham&hide_border=false)
-
 ![tanishach03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishach03&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 
 
