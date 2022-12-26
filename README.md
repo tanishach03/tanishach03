@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanisha Choudhary</h1>
 <h3 align="center">A Computer Science student and a passionate MERN stack developer and Blockchain enthusiast from India</h3>
+![viciadoemcodar](https://user-images.githubusercontent.com/94930302/209575346-b296df12-980a-4215-93c1-470572da552a.gif)
 
 - 🔭 I’m currently working on **MongoDB**
 
@@ -11,7 +12,6 @@
 
 - 📫 How to reach me **tanctanc03@gmail.com**
 
-<div align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tanisha-choudhary-997a65216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanisha-choudhary-997a65216" height="30" width="40" /></a>
@@ -26,4 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishach03&show_icons=true&locale=en" alt="tanishach03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishach03&" alt="tanishach03" /></p>
-  </div>
+
