@@ -3,11 +3,9 @@
 
 ![viciadoemcodar](https://user-images.githubusercontent.com/94930302/209575346-b296df12-980a-4215-93c1-470572da552a.gif)
 <hr>
-- 🔭 I’m currently working on **MongoDB**
+- 🔭 I’m currently working on **Node js**
 
-- 🌱 I’m currently learning **web3.js**
-
-- 👯 I’m looking to collaborate on **a MERN stack or Blockchain project**
+- 👯 I’m looking to collaborate on a **MERN Stack Project**
 
 - 👨‍💻 All of my projects are available on <a href="https://github.com/tanishach03">GitHub</a>
 
